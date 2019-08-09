@@ -1,0 +1,3 @@
+[submodule "play-croniter"]
+	path = play-croniter
+	url = https://github.com/remorses/play-croniter
